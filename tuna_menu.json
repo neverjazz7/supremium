@@ -2,7 +2,7 @@
   "store": {
     "name": "수 참치",
     "phone": "010-8915-0903",
-    "address": "인천광역시 간석동 123",
+    "address": "인천광역시 간석동 호수포로921",
     "website": "https://sujuna.co.kr",
     "payment_options": ["현장결제", "카드 결제", "계좌 이체"],
     "order_options": ["방문 예약", "TakeOut", "배달"],
@@ -12,7 +12,7 @@
   "menus": [
     {
       "name": "미",
-      "title": "미 (20피스, 200g, 1111인용)",
+      "title": "미 ( 00g, 2인용)",
       "details": "신선한 참치 20피스, 200g",
       "price": "₩37,000",
       "image": "https://raw.githubusercontent.com/neverjazz7/supremium/main/tuna_jin.jpg"
